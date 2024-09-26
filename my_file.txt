@@ -1,0 +1,6 @@
+Hello, World!
+The number is 42
+Python file handling is easy!
+Appending new line 1.
+Appending new line 2.
+Appending new line 3.
